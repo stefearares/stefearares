@@ -1,4 +1,4 @@
-# Hi 👋
+## Hi 👋
 <b>My name is Rareș and I am a Computer Science student from Romania looking for fun projects.</b>
 
 <details open>

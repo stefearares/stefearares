@@ -23,8 +23,8 @@
 
 | Language      | Level |
 | ----------- | ----------- |
-| English     | C2(CAE certified)       |
-| German  | B1(uncertified)       |
+| English     | C2 (CAE certified)       |
+| German  | B1 (uncertified)       |
 | Romanian     | Native       |
 
 </details>

@@ -3,8 +3,9 @@
 
 <details open>
 <summary>More information about me/my projects</summary>
-<h2>Get to know me</h2>
+<h1>Get to know me</h1>
 <br>
+<h2><code>whoami</code></h2>
 <p> I'm currently studying at West Univeristy of Timisoara but I'm openly looking for a job.<br> At the moment I enjoy doing web development, bash scripting and creating desktop apps but I'm always open to learn new technologies.</p>
   
 </details>

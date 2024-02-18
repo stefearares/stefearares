@@ -4,7 +4,6 @@
 <details open>
 <summary>More information about me/my projects</summary>
 <h2><code>whoami</code></h2>
-<br>
-<p> I'm currently studying at West Univeristy of Timisoara but I'm openly looking for a job.<br> At the moment I enjoy doing web development, bash scripting and creating desktop apps but I'm always open to learn new technologies.</p>
+<p>I'm currently studying at West Univeristy of Timisoara but I'm openly looking for a job.<br> At the moment I enjoy doing web development, bash scripting and creating desktop apps but I'm always open to learn new technologies.</p>
   
 </details>

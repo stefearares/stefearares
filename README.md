@@ -30,6 +30,8 @@
 <h2>Other links:</h2>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/stefearares/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/raresbogdan.stefea)
 
 <sub><sub>Still don't know how to exit <b>VIM</b>.</sub></sub>
+
 </details>

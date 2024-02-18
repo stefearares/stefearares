@@ -21,9 +21,10 @@
 
 <h2>The languages I speak:</h2>
 
-| Syntax      | Description |
+| Language      | Level |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| English     | C2(CAE certified)       |
+| German  | B1(uncertified)       |
+| Romanian     | Native       |
 
 </details>

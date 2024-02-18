@@ -23,7 +23,7 @@
 
 | Language      | Level |
 | ----------- | ----------- |
-| English     | C2 (CAE certified)       |
+| English     | C2 ([CAE certified](https://www.cambridgeenglish.org/exams-and-tests/advanced/))       |
 | German  | B1 (uncertified)       |
 | Romanian     | Native       |
 

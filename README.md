@@ -34,5 +34,4 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/yv4uabc15ibozcrvyhcs2d4zf)
 
 <sub><sub>Still don't know how to exit <b>VIM</b>.</sub></sub>
-
 </details>

@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi 
 <b>My name is Rareș and I am a Computer Science student from Romania looking for fun projects.</b>
 
 <details open>
@@ -24,7 +24,7 @@
 | Language      | Level |
 | ----------- | ----------- |
 | English     | C2 ([CAE certified](https://www.cambridgeenglish.org/exams-and-tests/advanced/))       |
-| German  | B1 (uncertified)       |
+| German  | B1 (A1 certified)       |
 | Romanian     | Native       |
 
 <h2>Other links:</h2>
@@ -33,5 +33,4 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/raresbogdan.stefea)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/yv4uabc15ibozcrvyhcs2d4zf)
 
-<sub><sub>Message me if you know how to exit <b>VIM</b>.</sub></sub>
 </details>

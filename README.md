@@ -15,9 +15,9 @@
 
 <h2>What I'm learning right now:</h2>
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-<sub>Working on a forum website with a friend using the <b>MERN</b> stack.</sub>
+<sub>Working on a IoT project in a team using <b>RIOT</b>.</sub>
 
 <h2>The languages I speak:</h2>
 

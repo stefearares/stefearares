@@ -16,6 +16,7 @@
 <h2>What I'm learning right now:</h2>
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+
 <sub>Working on a IoT project in a team using <b>RIOT</b> for IoT and working on a small Python Interpreter with a team using <b>RUST</b>.</sub>
 
 <h2>The languages I speak:</h2>

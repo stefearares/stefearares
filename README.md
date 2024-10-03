@@ -17,7 +17,7 @@
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)  ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 
-<sub>Working on a IoT project in a team using <b>RIOT</b> for IoT and working on a small Python Interpreter with a team using <b>RUST</b>.</sub>
+<sub>Working on a web project in a team using <b>DJANGO</b> and <b>React.JS</b> for university and working on a small Multithreaded Webserver using <b>RUST</b>.</sub>
 
 <h2>The languages I speak:</h2>
 
